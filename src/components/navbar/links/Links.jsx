@@ -24,8 +24,6 @@ const Links = () => {
     },
   ];
 
-  console.log(open);
-
   //TEMPORARY
   const session = true;
   const isAdmin = true;
