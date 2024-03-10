@@ -27,6 +27,7 @@
     cursor: pointer;
     font-size: 30px;
     font-weight: bold;
+    background: none;
   }
 
   .mobileLinks {
@@ -41,5 +42,6 @@
     align-items: center;
     justify-content: center;
     gap: 10px;
+    z-index: 100;
   }
 }
