@@ -1,23 +1,9 @@
-import PostCard from '@/components/postCard/postCard';
-import styles from './blog.module.css';
+
 
 const Blog = () => {
   return (
-    <div className={styles.container}>
-      <div className={styles.post}>
-        <PostCard />
-      </div>
-      <div className={styles.post}>
-        <PostCard />
-      </div>
-      <div className={styles.post}>
-        <PostCard />
-      </div>
-      <div className={styles.post}>
-        <PostCard />
-      </div>
-    </div>
-  );
-};
+    <div>Blog</div>
+  )
+}
 
-export default Blog;
+export default Blog
