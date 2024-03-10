@@ -8,7 +8,7 @@ const PostCard = () => {
       <div className={styles.top}>
         <div className={styles.imgContainer}>
           <Image
-            src="https://images.pexels.com/photos/20434627/pexels-photo-20434627/free-photo-of-view-t-b-o-tang-d-ng-dinh-da-n-ng.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+            src="https://images.pexels.com/photos/20308702/pexels-photo-20308702/free-photo-of-a-creek-runs-through-a-forested-area-with-trees.jpeg"
             alt="post image"
             fill
             className={styles.img}
